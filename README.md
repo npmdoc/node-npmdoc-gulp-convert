@@ -1,9 +1,14 @@
-# api documentation for  [gulp-convert (v0.2.0)](https://github.com/assemble/gulp-convert)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-convert.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-convert) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-convert.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-convert)
+# npmdoc-gulp-convert
+
+#### api documentation for  [gulp-convert (v0.2.0)](https://github.com/assemble/gulp-convert)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-convert.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-convert) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-convert.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-convert)
+
 #### Gulp plugin to convert to or from JSON, YAML, XML, PLIST or CSV.
 
-[![NPM](https://nodei.co/npm/gulp-convert.png?downloads=true)](https://www.npmjs.com/package/gulp-convert)
+[![NPM](https://nodei.co/npm/gulp-convert.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-convert)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-convert/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-convert_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-convert/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-convert/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-convert/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-convert/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-convert/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-convert/build/screenCapture.npmPackageListing.svg)
 
@@ -53,13 +58,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "doowb",
-            "email": "brian.woodward@gmail.com"
+            "name": "doowb"
         }
     ],
     "name": "gulp-convert",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/assemble/gulp-convert.git"
@@ -70,16 +73,6 @@
     "version": "0.2.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-convert](#apidoc.module.gulp-convert)
-
-
-
-# <a name="apidoc.module.gulp-convert"></a>[module gulp-convert](#apidoc.module.gulp-convert)
 
 
 
